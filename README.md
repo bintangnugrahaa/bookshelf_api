@@ -1,4 +1,6 @@
 # Submission Kelas Belajar Membuat Aplikasi Back-End untuk Pemula
+**Rating Submission Anda**:
+⭐⭐⭐⭐ (4/5)
 
 ## Hasil Review Submission
 
